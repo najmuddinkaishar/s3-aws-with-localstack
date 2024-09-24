@@ -1,3 +1,5 @@
+Project Explaination
+
 1. Dependencies and Middleware Configuration
     express: A web application framework for Node.js.
     aws-sdk: The official AWS SDK for JavaScript, allowing interaction with various AWS services.
